@@ -1,0 +1,25 @@
+{
+  "name": "cypress-automation",
+  "version": "1.0.0",
+  "description": "cypress automation",
+  "main": "index.js",
+  "scripts": {
+    "cypress": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicodedrians/Cypress-Automation.git"
+  },
+  "keywords": [
+    "cypress"
+  ],
+  "author": "nico",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicodedrians/Cypress-Automation/issues"
+  },
+  "homepage": "https://github.com/nicodedrians/Cypress-Automation#readme",
+  "devDependencies": {
+    "cypress": "^13.2.0"
+  }
+}
